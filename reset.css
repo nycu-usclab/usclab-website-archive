@@ -1,0 +1,49 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+	margin:0;
+	padding:0;
+}
+table {
+    font-size:12px;/*表格字的大小*/
+	border-spacing:2;/*表格間距*/
+}
+
+
+.table title{
+	color: #FFF;
+	 font-size:14px;
+}
+
+
+
+
+{
+
+	bgcolor:#005EBB;
+}
+
+
+
+
+fieldset, img {
+	border:0;
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+	font-style:normal;
+	font-weight:bold;
+}
+ol, ul {
+	list-style:none;
+}
+caption, th {
+	text-align:left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size:100%;
+	font-weight:normal;
+}*/
+q:before, q:after {
+	content:'';
+}
+abbr, acronym {
+	border:0;
+}

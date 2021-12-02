@@ -1,0 +1,200 @@
+﻿@charset "utf-8";
+
+
+@import url("reset.css");
+
+/*網站字型*/
+p {
+	font-size:12px;
+	line-height:20px;
+	letter-spacing:1px;
+	padding:8px 15px;
+}
+
+
+/*背景色設定*/
+body {
+	background-color:#E4E4E4; 
+}
+
+
+/*網頁做外框的設定*/
+#HEADER {
+	margin:0 auto;
+	width:948px;
+	height:195px;
+	background-color:#336699;
+	  	         border: 1px solid #7F7F7F; 
+}
+#HEADER h1 {
+	color:#FFFFFF;
+	text-align:center;
+	line-height:50px;
+	letter-spacing:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+#WRAPPER {
+	margin:0 auto;
+	width:948px;
+	overflow:hidden;
+	background-color:#ffffff;/*內容白色*/
+	padding-top:20px;
+	padding-bottom:20px;
+	border: 1px solid #7F7F7F; /*網頁做外框的設定*/
+		    
+
+}
+
+#BOX_A {
+	width:175px;
+	float:left;
+	margin-left:10px;
+	_display:inline;
+	
+}
+
+
+
+#BOX_AC {
+	width:200px;
+	float:left;
+	margin-left:10px;
+	_display:inline;
+	
+}
+
+
+#FOOTER {
+	clear:both;
+	margin:0 auto;
+	width:948px;
+	height:120px;
+	background-color:#336699;
+	color: #FFF; /*文字顏色設定*/
+	font-size: 12px; /*文字尺寸設定*/	  
+         line-height: 1.5em; /*文字行高設定為1.5字高*/
+	        	 
+}
+
+
+  
+  
+  
+  
+#content {
+         /*可不用設定寬度和高度，由文字來決定高度*/
+       
+        font-size: 14px; /*字體大小*/
+        line-height: 2em;   /*字體行間為兩個字距*/
+        color:#666; /*文字顏色設定*/
+        padding: 10px;
+        }
+	
+	
+	
+		
+/*link設定stard*/				
+		
+a:link {
+	color: #333;
+}
+a:hover {
+	color: #333;
+}
+a:visited {
+	color: #333;
+}
+a:active {
+	color: #000;
+}
+/*link設定end*/		
+
+
+
+
+/*表格設定start*/		
+
+.curriculumTable {			   background-color:#71B8FF;
+			   font-size:16px;
+			   font-weight:bold;
+			   color:#000000;
+			   text-align:center;
+}
+.curriculumText1 {			   background-color: #D9ECFF;
+			   font-size:15px;
+			   text-align:center;
+			   color:#333333;
+}
+
+
+.curriculumText2 {			   background-color: #F3F3FA;
+			   font-size:15px;
+			   text-align:center;
+			   color:#333333;
+
+
+
+}
+
+
+
+.newsTitle {	 background-color:#FFFFFF;
+            	font-size: 18px;
+	            color:#000066;
+				font-weight:bold;
+				text-align:left;
+}
+
+
+
+
+
+
+
+
+.member2{	   background-color: #D9ECFF;
+			   font-size:12px;
+			   color:#333333;
+	text-align:left;
+}
+
+
+.curriculumText2 {			   background-color: #F3F3FA;
+			   font-size:15px;
+			   text-align:center;
+			   color:#333333;
+
+}
+
+/*表格設定end*/		
+
+/*課程解答無法下載或網頁有問題請直接聯絡助教(54473)!!*/	
+.Wc{
+	text-align: center;
+		font-size: 15px;	
+		color:#F00;
+		
+}
+
+
+
+/*頁數效果*/		
+.pageb{
+	text-align: center;
+		font-size: 20px;
+		color:#F00;
+	
+		
+		
+}
+
+
+/*****************************************************下方link***********************************k*/	
+.aaa A:link {color: #66BDEC }
+.aaa A:visited {color: #66BDEC }
+.aaa A:active {color: #66BDEC}
+.aaa A:hover {color: #A0D5F3}
+.aaa a{text-decoration: none !important;}/*去除底線*/	
+
+/*****************************************************下方link***********************************k*/	
